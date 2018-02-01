@@ -27,12 +27,18 @@
     <ClInclude Include="D3D9RGBRendering.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Renderer9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D3D9RGBRendering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
